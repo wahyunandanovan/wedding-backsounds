@@ -35,7 +35,13 @@
         "title": "Anugerah Terindah",
         "artist":"Andmesh",
         "file_url": "https://wahyunandanovan.github.io/wedding-backsounds/music/andmesh-anugerah-terindah.mp3"
-      }
+      }, 
+        {
+        "id":7,
+        "title": "Akhirnya Ku Menemukanmu",
+        "artist":"Naff",
+        "file_url": "https://wahyunandanovan.github.io/wedding-backsounds/music/naff-akhirnya-kumenemukanmu.mp3"
+        }
     ]
   }
   
