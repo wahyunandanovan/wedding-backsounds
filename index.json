@@ -1,53 +1,58 @@
 {
-    "tracks": [
+   "tracks": [
       {
-        "id":1,
-        "title": "Gending Jawa",
-        "artist":"Instrumental",
-        "file_url": "https://wahyunandanovan.github.io/wedding-backsounds/music/instrumental-jawa.mp3"
+         "id": 1,
+         "title": "Gending Jawa",
+         "artist": "Instrumental",
+         "file_url": "https://wahyunandanovan.github.io/wedding-backsounds/music/instrumental-jawa.mp3"
       },
       {
-        "id":2,
-        "title": "Sotya",
-        "artist":"Niken Salindri",
-        "file_url": "https://wahyunandanovan.github.io/wedding-backsounds/music/niken-salindri-sotya.mp3"
+         "id": 2,
+         "title": "Sotya",
+         "artist": "Niken Salindri",
+         "file_url": "https://wahyunandanovan.github.io/wedding-backsounds/music/niken-salindri-sotya.mp3"
       },
       {
-        "id":3,
-        "title": "Soundtrack film UP",
-        "artist":"Instrumental",
-        "file_url": "https://wahyunandanovan.github.io/wedding-backsounds/music/soundtrack-up.mp3"
+         "id": 3,
+         "title": "Soundtrack film UP",
+         "artist": "Instrumental",
+         "file_url": "https://wahyunandanovan.github.io/wedding-backsounds/music/soundtrack-up.mp3"
       },
       {
-        "id":4,
-        "title": "Pernikahan Kita",
-        "artist":"Tiara Andini feat Arsy Widianto",
-        "file_url": "https://wahyunandanovan.github.io/wedding-backsounds/music/tiara-andini-pernikahan-kita.mp3"
+         "id": 4,
+         "title": "Pernikahan Kita",
+         "artist": "Tiara Andini feat Arsy Widianto",
+         "file_url": "https://wahyunandanovan.github.io/wedding-backsounds/music/tiara-andini-pernikahan-kita.mp3"
       },
       {
-        "id":5,
-        "title": "Blue",
-        "artist":"Yung Kai",
-        "file_url": "https://wahyunandanovan.github.io/wedding-backsounds/music/yung-kai-blue.mp3"
+         "id": 5,
+         "title": "Blue",
+         "artist": "Yung Kai",
+         "file_url": "https://wahyunandanovan.github.io/wedding-backsounds/music/yung-kai-blue.mp3"
       },
       {
-        "id":6,
-        "title": "Anugerah Terindah",
-        "artist":"Andmesh",
-        "file_url": "https://wahyunandanovan.github.io/wedding-backsounds/music/andmesh-anugerah-terindah.mp3"
-      }, 
-        {
-        "id":7,
-        "title": "Akhirnya Ku Menemukanmu",
-        "artist":"Naff",
-        "file_url": "https://wahyunandanovan.github.io/wedding-backsounds/music/naff-akhirnya-kumenemukanmu.mp3"
-        }, 
-        {
-        "id":8,
-        "title": "Sinarengan",
-        "artist":"Denny Caknan feat Bella Bonita",
-        "file_url": "https://wahyunandanovan.github.io/wedding-backsounds/music/denny-caknan-sinarengan.mp3"
-        }
-    ]
-  }
-  
+         "id": 6,
+         "title": "Anugerah Terindah",
+         "artist": "Andmesh",
+         "file_url": "https://wahyunandanovan.github.io/wedding-backsounds/music/andmesh-anugerah-terindah.mp3"
+      },
+      {
+         "id": 7,
+         "title": "Akhirnya Ku Menemukanmu",
+         "artist": "Naff",
+         "file_url": "https://wahyunandanovan.github.io/wedding-backsounds/music/naff-akhirnya-kumenemukanmu.mp3"
+      },
+      {
+         "id": 8,
+         "title": "Sinarengan",
+         "artist": "Denny Caknan feat Bella Bonita",
+         "file_url": "https://wahyunandanovan.github.io/wedding-backsounds/music/denny-caknan-sinarengan.mp3"
+      },
+      {
+         "id": 9,
+         "title": "Separuhku",
+         "artist": "Nano",
+         "file_url": "https://wahyunandanovan.github.io/wedding-backsounds/music/nano-separuhku.mp3"
+      }
+   ]
+}
