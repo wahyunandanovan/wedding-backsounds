@@ -53,6 +53,12 @@
          "title": "Separuhku",
          "artist": "Nano",
          "file_url": "https://wahyunandanovan.github.io/wedding-backsounds/music/nano-separuhku.mp3"
-      }
+      }, 
+      {
+         "id": 10,
+         "title": "Bermuara",
+         "artist": "Mahalini",
+         "file_url": "https://wahyunandanovan.github.io/wedding-backsounds/music/mahalini-bermuara.mp3"
+      },
    ]
 }
